@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1554702069 source:c:\users\manag\desktop\text file analyzer\main.cpp
+	<iostream>
+	<ostream>
+	<fstream>
+	"Sentences.h"
+	<vector>
+
+1554702134 c:\users\manag\desktop\text file analyzer\sentences.h
+	<vector>
+	<string>
+
+1554702134 source:c:\users\manag\desktop\text file analyzer\sentences.cpp
+	"Sentences.h"
+	<iostream>
+
+1554716038 source:c:\users\manag\desktop\old.text file analyzer\sentences.cpp
+	"Sentences.h"
+	<iostream>
+
+1554702970 c:\users\manag\desktop\old.text file analyzer\sentences.h
+	<vector>
+	<string>
+
+1554716038 source:c:\users\manag\desktop\old.text file analyzer\main.cpp
+	<iostream>
+	<ostream>
+	<fstream>
+	"Sentences.h"
+	<vector>
+
